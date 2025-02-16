@@ -1,8 +1,21 @@
-# 💫 About Me:
-# 💻 About Me<br><br>Hi there! I'm [Kaif Shaikh] 👋<br><br>🚀 **Full-Stack Developer & Freelancer**  <br>🔹 Passionate about building scalable web applications and solving real-world problems.  <br>🔹 Experienced in **React, Node.js, Firebase, MongoDB, and more**.  <br>🔹 Currently working on my **TY Final Year Project - R-DENTAL**, an e-commerce platform for dental products.  <br>🔹 Co-founding an **online freelance agency** to provide top-notch digital solutions.  <br><br>### 💡 What I'm Up To  <br><br>- 🏗 **Building:** Scalable web applications, e-commerce solutions, and automation tools.  <br>- 🤝 **Looking to Collaborate:** On open-source projects and exciting freelance opportunities.  <br>- 🧠 **Learning:** Advanced backend architectures, cloud functions, and AI-powered applications.  <br>- 💬 **Ask me about:** Web development, Firebase, and freelancing tips.  <br><br>### 📫 Get in Touch  <br><br>- Portfolio: [Your Website](#)  <br>- LinkedIn: [Your LinkedIn](#)  <br>- Email: kaifs1391@example.com  <br><br>Let's build something amazing together! 🚀<br>
+# 💫 About Me
+Hi there! I'm Kaif Shaikh 👋  
+
+🚀 Full-Stack Developer & Freelancer  
+• Passionate about building scalable web applications and solving real-world problems.  
+• Experienced in React, Node.js, Firebase, MongoDB, and more.  
+• Currently working on my TY Final Year Project - R-DENTAL, an e-commerce platform for dental products.  
+• Co-founding an online freelance agency to provide top-notch digital solutions.  
+
+# 💡 What I'm Up To
+- 🏗 Building scalable web applications, e-commerce solutions, and automation tools.  
+- 🤝 Looking to collaborate on open-source projects and freelance opportunities.  
+- 🧠 Learning advanced backend architectures, cloud functions, and AI-powered applications.  
+- 💬 Ask me about web development, Firebase, and freelancing tips.  
+  <br><br>### 📫 Get in Touch  <br><br>- Portfolio: [Your Website](#)  <br>- LinkedIn: [Your LinkedIn](#)  <br>- Email: kaifs1391@example.com  <br><br>Let's build something amazing together! 🚀<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.kaif_shaikh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifs1391@gmail.com) 
 
 # 💻 Tech Stack:
