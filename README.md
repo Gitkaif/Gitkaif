@@ -3,8 +3,7 @@ Hi there! I'm Kaif Shaikh 👋
 
 🚀 Full-Stack Developer & Freelancer  
 • Passionate about building scalable web applications and solving real-world problems.  
-• Experienced in React, Node.js, Firebase, MongoDB, and more.  
-• Currently working on my TY Final Year Project - R-DENTAL, an e-commerce platform for dental products.  
+• Experienced in MERN Stack.  
 • Co-founding an online freelance agency to provide top-notch digital solutions.  
 
 # 💡 What I'm Up To
