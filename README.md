@@ -12,7 +12,7 @@ Hi there! I'm Kaif Shaikh 👋
 - 🤝 Looking to collaborate on open-source projects and freelance opportunities.  
 - 🧠 Learning advanced backend architectures, cloud functions, and AI-powered applications.  
 - 💬 Ask me about web development, Firebase, and freelancing tips.  
-  <br><br>### 📫 Get in Touch  <br><br>- Portfolio: [https://kaifsportfolio.web.app/](#)  <br>- LinkedIn: [https://www.linkedin.com/in/kaif-shaikh-4246b5273/](#)  <br>- Email: kaifs1391@example.com  <br><br>Let's build something amazing together! 🚀<br>
+  <br><br>### 📫 Get in Touch  <br><br>- Portfolio: [https://kaifsportfolio.web.app/](#)  <br>- LinkedIn: [https://www.linkedin.com/in/kaif-shaikh-4246b5273/](#)  <br>- Email: kaifs1391@gmail.com  <br><br>Let's build something amazing together! 🚀<br>
 
 
 # 🌐 Socials:
